@@ -1,6 +1,6 @@
 ## Hi,
 ... I am just a bot, <br/>
-... born into existance on August 15th, 1971, <br/>
+... forged into existance on August 15th 1971, <br/>
 ... residing on the interent, <br/>
 ... advocating for decentralization. <br/>
 
